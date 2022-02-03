@@ -1,0 +1,20 @@
+.color-block {
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+.target-div {
+  margin: 50px;
+  align-content: center;
+  height: 300px;
+  width: 300px;
+  border: 2px solid black;
+}
+.color-container {
+  display: flex;
+  justify-content: space-evenly;
+  border: 2px solid black;
+  background-color: crimson;
+  z-index: -10;
+}
