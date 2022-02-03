@@ -25,7 +25,7 @@ class App extends React.Component {
           <ColorBlock color="cyan" onClick={this.updateColor} />
           {/*
 
-            Code Smell
+           below type of repeting is called as Code Smell Code Smell
 
            <div
             className="color-block"
